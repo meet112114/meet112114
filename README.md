@@ -1,7 +1,7 @@
 <div align="center">
 
   
-# 👨‍💻 Meet Sanwadkar  
+#  Meet Sanwadkar  
 *Crafting intelligent systems for the future.*
 
 <br>

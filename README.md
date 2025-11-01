@@ -11,8 +11,9 @@ I love building intelligent systems, clean APIs, and modern web experiences.
 ---
 
 ### 🚀 Featured Projects  
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meet112114&repo=collegeSocial2-django-&theme=radical)](https://github.com/meet112114/collegeSocial2-django-)  
+<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meet112114&repo=collegeSocial2-django-&theme=radical)](https://github.com/meet112114/collegeSocial2-django-) 
+<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meet112114&repo=Yt_video_summariser&theme=radical)](https://github.com/meet112114/Yt_video_summariser)
 
 ---

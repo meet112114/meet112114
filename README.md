@@ -4,9 +4,14 @@
 #  Meet Sanwadkar  
 *Crafting intelligent systems for the future.*
 
+## 🧠 About Me  
+I'm an MCA student passionate about building intelligent, scalable systems.  
+I love combining AI, ML, and GenAI with modern web technologies to create meaningful digital experiences.  
+Currently exploring cloud automation and backend optimization.
+
 <br>
 
-🎓 MCA Student | 🧠 AI & Machine Learning Enthusiast | 💡 GenAI Innovator | ⚙️ Backend Developer
+🧠 AI & Machine Learning Enthusiast | 💡 GenAI Innovator | ⚙️ Backend Developer
 
 I love building intelligent systems, clean APIs, and modern web experiences.  
 
@@ -14,6 +19,7 @@ I love building intelligent systems, clean APIs, and modern web experiences.
 
 
 ---
+
 
 ### 🚀 Featured Projects  
 
@@ -57,6 +63,14 @@ I love building intelligent systems, clean APIs, and modern web experiences.
 
 ---
 
+
+## 🌟 Highlights  
+- 🧠 Developed an AI-based YouTube summarizer using Whisper + BART  
+- 💍 Built a full-stack wedding management platform with Stripe integration  
+- 💬 Actively solving AI/ML problems on LeetCode & HackerRank  
+- ☁️ Deploying and automating with Docker + AWS
+
+  
 ### 🌱 Currently Learning  
 
 🌐 Building AI-powered web apps with OpenAI APIs  
@@ -68,8 +82,6 @@ I love building intelligent systems, clean APIs, and modern web experiences.
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=meet112114&theme=github-compact)
 
 ---
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/mrsanwadkar)
 
 
 ### 🔗 Connect with Me  

@@ -1,7 +1,9 @@
 <div align="center">
 
-# 👋 Hi there, I'm Meet  
-
+  
+# 👨‍💻 Meet Sanwadkar  
+*Crafting intelligent systems for the future.*
+<br>
 🎓 MCA Student | 💻 MERN & AI Enthusiast | ⚙️ Backend Developer  
 
 I love building intelligent systems, clean APIs, and modern web experiences.  

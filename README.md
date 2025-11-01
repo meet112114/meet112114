@@ -3,7 +3,7 @@
 ** Developer - [ MERN STACK , AI/ML , GEN_AI ] **
 
 ## 📈 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/your_leetcode_username?theme=dark&font=Karma&ext=contest)](https://leetcode.com/MeetSanwadkar)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/MeetSanwadkar?theme=dark&font=Karma&ext=contest)](https://leetcode.com/MeetSanwadkar)
 
 ## 🏆 GitHub Stats
 ![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=meet112114&show_icons=true&theme=radical)

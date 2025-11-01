@@ -69,6 +69,9 @@ I love building intelligent systems, clean APIs, and modern web experiences.
 
 ---
 
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/mrsanwadkar)
+
+
 ### 🔗 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/meet-sanwadkar)

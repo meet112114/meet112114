@@ -2,9 +2,7 @@
 
   
 #  Meet Sanwadkar  
-*Crafting intelligent systems for the future.*
 
-## 🧠 About Me  
 I'm an MCA student passionate about building intelligent, scalable systems.  
 I love combining AI, ML, and GenAI with modern web technologies to create meaningful digital experiences.  
 Currently exploring cloud automation and backend optimization.

@@ -6,7 +6,7 @@
 
 <br>
 
-🎓 MCA Student | 💻 MERN & AI Enthusiast | ⚙️ Backend Developer  
+🎓 MCA Student | 🧠 AI & Machine Learning Enthusiast | 💡 GenAI Innovator | ⚙️ Backend Developer
 
 I love building intelligent systems, clean APIs, and modern web experiences.  
 

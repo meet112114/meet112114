@@ -20,8 +20,12 @@ I love building intelligent systems, clean APIs, and modern web experiences.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 
+## 🏆 GitHub Stats
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=meet112114&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meet112114&show_icons=true&theme=radical)
+
+![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=meet112114&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meet112114&layout=compact&theme=radical)
 
 ### 🌱 Currently Learning
@@ -34,10 +38,6 @@ I love building intelligent systems, clean APIs, and modern web experiences.
 ![Profile Views](https://komarev.com/ghpvc/?username=meet112114&color=blue)
 
   
-## 🏆 GitHub Stats
-![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=meet112114&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meet112114&layout=compact&theme=radical)
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/meet-sanwadkar)

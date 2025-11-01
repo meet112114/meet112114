@@ -6,7 +6,7 @@
 
 I love building intelligent systems, clean APIs, and modern web experiences.  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=23&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AI+%26+ML+Developer;GenAI+Developer;Backend+%26+API+Architect;DevOps+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AI+%26+ML+Developer;GenAI+Developer;Backend+%26+API+Architect;DevOps+Engineer)](https://git.io/typing-svg)
 
 
 ---
